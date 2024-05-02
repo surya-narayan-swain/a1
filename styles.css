@@ -1,4 +1,4 @@
-h{
+h1{
     width: 350px;
     height: 50px;
     color: blue;
@@ -8,5 +8,5 @@ h{
     text-align: center;
     font-size: larger;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
+
 }
